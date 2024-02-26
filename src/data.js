@@ -5,22 +5,22 @@ export const data = [
         subFiles: [
             {
                 name: 'App.js',
-                isFolder: 'false',
+                isFolder: false,
                 id: 1,
             },
             {
                 name: 'components',
-                isFolder: 'true',
+                isFolder: true,
                 id: 8,
                 subFiles: [
                     {
                         name: 'people.js',
-                        isFolder: 'false',
+                        isFolder: false,
                         id: 4
                     },
                     {
                         name: 'fan.js',
-                        isFolder: 'false',
+                        isFolder: false,
                         id:6
                     }
                 ]
@@ -30,7 +30,7 @@ export const data = [
     },
     {
         name: 'jet.js',
-        isFolder: 'false',
+        isFolder: false,
         id: 2
     }
 ]
