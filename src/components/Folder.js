@@ -1,7 +1,7 @@
 import { useState } from "react";
-import folderLogo from './assets/folder-icon.png'
-import fileLogo from './assets/file.png'
-import "./App.css";
+import folderLogo from '../assets/folder-icon.png'
+import fileLogo from '../assets/file.png'
+import "../App.css";
 
 
 

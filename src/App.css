@@ -3,3 +3,10 @@
   margin-left: 15px;
   cursor: pointer;
 }
+
+.otp-input {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  text-align: center;
+}
